@@ -5,3 +5,4 @@
 - **[2026-10-01 17:56:59]** (3) fix(statusBar): synchronize system status bar icons with theme mode
 - **[2026-10-02 10:29:26]** (4) ui(palette): add color picker for custom user accent themes
 - **[2026-10-02 13:46:49]** (5) test(theme): verify widget rebuild behavior on theme change
+- **[2026-10-02 16:03:12]** (6) style(material3): update color schemes to Material 3 tokens
