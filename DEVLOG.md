@@ -11,3 +11,4 @@
 - **[2026-10-03 17:10:25]** (9) refactor(provider): persist selected theme palette in SharedPreferences
 - **[2026-10-03 20:27:48]** (10) fix(statusBar): synchronize system status bar icons with theme mode
 - **[2026-10-04 10:43:52]** (11) ui(palette): add color picker for custom user accent themes
+- **[2026-10-04 13:00:15]** (12) test(theme): verify widget rebuild behavior on theme change
