@@ -23,3 +23,4 @@
 - **[2026-10-07 11:04:31]** (21) docs(theming): document dynamic theme extension patterns
 - **[2026-10-07 14:21:54]** (22) feat(theme): add AMOLED pure black theme with high contrast
 - **[2026-10-07 17:38:17]** (23) refactor(provider): persist selected theme palette in SharedPreferences
+- **[2026-10-08 10:11:44]** (24) fix(statusBar): synchronize system status bar icons with theme mode
