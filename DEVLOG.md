@@ -49,3 +49,4 @@
 - **[2026-10-15 11:00:15]** (47) test(theme): verify widget rebuild behavior on theme change
 - **[2026-10-15 14:17:38]** (48) style(material3): update color schemes to Material 3 tokens
 - **[2026-10-15 17:34:01]** (49) docs(theming): document dynamic theme extension patterns
+- **[2026-10-15 20:51:24]** (50) feat(theme): add AMOLED pure black theme with high contrast
