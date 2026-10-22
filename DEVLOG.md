@@ -71,3 +71,4 @@
 - **[2026-10-21 17:16:19]** (69) style(material3): update color schemes to Material 3 tokens
 - **[2026-10-21 20:33:42]** (70) docs(theming): document dynamic theme extension patterns
 - **[2026-10-22 10:49:46]** (71) feat(theme): add AMOLED pure black theme with high contrast
+- **[2026-10-22 13:06:09]** (72) refactor(provider): persist selected theme palette in SharedPreferences
