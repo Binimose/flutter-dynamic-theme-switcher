@@ -73,3 +73,4 @@
 - **[2026-10-22 10:49:46]** (71) feat(theme): add AMOLED pure black theme with high contrast
 - **[2026-10-22 13:06:09]** (72) refactor(provider): persist selected theme palette in SharedPreferences
 - **[2026-10-22 16:23:32]** (73) fix(statusBar): synchronize system status bar icons with theme mode
+- **[2026-10-23 11:56:59]** (74) ui(palette): add color picker for custom user accent themes
