@@ -83,3 +83,4 @@
 - **[2026-10-25 11:10:25]** (81) ui(palette): add color picker for custom user accent themes
 - **[2026-10-25 14:27:48]** (82) test(theme): verify widget rebuild behavior on theme change
 - **[2026-10-25 17:44:11]** (83) style(material3): update color schemes to Material 3 tokens
+- **[2026-10-26 10:17:38]** (84) docs(theming): document dynamic theme extension patterns
