@@ -89,3 +89,4 @@
 - **[2026-10-27 11:24:51]** (87) fix(statusBar): synchronize system status bar icons with theme mode
 - **[2026-10-27 14:41:14]** (88) ui(palette): add color picker for custom user accent themes
 - **[2026-10-27 17:58:37]** (89) test(theme): verify widget rebuild behavior on theme change
+- **[2026-10-27 20:15:00]** (90) style(material3): update color schemes to Material 3 tokens
